@@ -16,7 +16,6 @@ The implementation includes:
 - Configuration-frontier tracking.
 - Enumeration of maximal coalitions.
 - Deterministic step-by-step execution traces.
-- Illustrative configuration reachability examples.
 - Experimental evaluation over UAV swarm sizes from 10 to 100.
 - $\alpha$-sensitivity experiments.
 - Statistical summaries over 200 independent Monte Carlo missions.
@@ -30,35 +29,5 @@ The complete experimental implementation is available as a Google Colab notebook
 
 The notebook can be executed directly in Google Colab without requiring a local Python installation.
 
-## Repository Contents
 
-```text
-F-PIR/
-│
-├── README.md
-│
-├── code/
-│   ├── fpir.py
-│   ├── fuzzy_graph.py
-│   ├── mission_generator.py
-│   ├── experiments.py
-│   ├── visualization.py
-│   └── illustrative_example.py
-│
-├── data/
-│   ├── experimental_results.csv
-│   ├── alpha_sensitivity.csv
-│   └── descriptive_statistics.csv
-│
-├── figures/
-│   ├── Figure_1_Execution_Time.pdf
-│   ├── Figure_2_Coalitions.pdf
-│   ├── Figure_3_Largest_Coalition.pdf
-│   ├── Figure_4_Configurations.pdf
-│   ├── Figure_5_Frontier.pdf
-│   ├── Figure_6_Alpha.pdf
-│   ├── Figure_7_Boxplot.pdf
-│   └── 3dexample.png
-│
-└── examples/
-    └── f-pir-illustrative-example/
+
