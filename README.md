@@ -1,6 +1,6 @@
 # F-PIR: Fuzzy Pivoted Iterative Refinement
 
-This repository contains the source code, experimental data, generated tables, and illustrative examples accompanying the manuscript on **Fuzzy Pivoted Iterative Refinement (F-PIR)** for fuzzy coalition enumeration in UAV pursuit-evasion scenarios.
+This repository contains the source code, experimental data, and  generated tables accompanying the manuscript on **Fuzzy Pivoted Iterative Refinement (F-PIR)** for fuzzy coalition enumeration in UAV pursuit-evasion scenarios.
 
 ## Overview
 
